@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.2",
   "url": "https://salonebeats.gumroad.com/l/slb-key",
-  "notes": "Calmer tempo display, remembers your language and display settings"
+  "notes": "Better key detection on real samples, relative key under the result, better tempo on instrumentals without drums"
 }
