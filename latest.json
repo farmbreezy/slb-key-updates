@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "url": "https://salonebeats.gumroad.com/l/slb-key?utm_campaign=update-button&utm_medium=update&utm_source=plugin",
-  "notes": "Japanese interface, semitones to a reference sample on every track, adjustable tuning (A4 432 to 446 Hz), window size remembered, steadier BPM.",
+  "notes": "Measured tuning shown in Hz, target tempo to your reference sample, Accuracy instead of Confidence.",
   "feedback": "https://tally.so/r/PdVNV5"
 }
