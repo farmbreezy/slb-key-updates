@@ -1,6 +1,6 @@
 {
-  "version": "1.4.1",
+  "version": "1.5.0",
   "url": "https://salonebeats.gumroad.com/l/slb-key?utm_campaign=update-button&utm_medium=update&utm_source=plugin",
-  "notes": "Measured tuning shown in Hz, target tempo to your reference sample, Accuracy instead of Confidence.",
+  "notes": "Better major key detection on chords and loops. New: SLB Key Pro with a sample library, chords as MIDI and all tracks at a glance. Pre-order until Dec 18.",
   "feedback": "https://tally.so/r/PdVNV5"
 }
